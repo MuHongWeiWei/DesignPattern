@@ -1,8 +1,8 @@
-package main.FactoryMethodPattern
+package main.factoryMethodPattern
 
-import main.FactoryMethodPattern.factory.AppleFactory
-import main.FactoryMethodPattern.factory.BananaFactory
-import main.FactoryMethodPattern.factory.OrangeFactory
+import main.factoryMethodPattern.factory.AppleFactory
+import main.factoryMethodPattern.factory.BananaFactory
+import main.factoryMethodPattern.factory.OrangeFactory
 
 
 fun main() {

@@ -1,4 +1,4 @@
-package main.FactoryMethodPattern
+package main.factoryMethodPattern
 
 interface Fruit {
     fun eat()

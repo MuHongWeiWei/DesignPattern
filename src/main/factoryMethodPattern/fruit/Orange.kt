@@ -1,6 +1,6 @@
-package main.FactoryMethodPattern.fruit
+package main.factoryMethodPattern.fruit
 
-import main.FactoryMethodPattern.Fruit
+import main.factoryMethodPattern.Fruit
 
 class Orange : Fruit {
     override fun eat() {
